@@ -10,6 +10,43 @@ namespace MacchinaLotto
     {
         static void Main(string[] args)
         {
+            Lotto l = new Lotto("1", "12/10/2005");
+            Lotto c = new Lotto("2", "3/12/1923");
+            Console.WriteLine(l.Equals(c));
+            try
+            {
+                Console.WriteLine(l.EstraiSingolo());
+                Console.WriteLine(l.EstraiSingolo());
+                Console.WriteLine(l.EstraiSingolo());
+                Console.WriteLine(l.EstraiSingolo());
+                Console.WriteLine(l.EstraiSingolo());
+                Console.WriteLine(l.EstraiSingolo());
+            } catch(Exception e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+            Console.Clear();
+            l.EstraiCinque();
+            l.EstraiCinque();
+            l.EstraiCinque();
+            l.EstraiCinque();
+            l.EstraiCinque();
+            l.EstraiCinque();
+            l.EstraiCinque();
+            l.EstraiCinque();
+            l.EstraiCinque();
+            l.EstraiCinque();
+            int[] controllo = new int[4];
+            controllo[0] = 1;
+            controllo[1] = 5;
+            controllo[2] = 49;
+            controllo[3] = 58;
+            l.VerificaEstrazioni(controllo, 4);
+            int[] tot = l.RegistroEstrazioni();
+            for(int i = 0; i < tot.Length; i++)
+            {
+                Console.WriteLine(tot[i]);
+            }
         }
     }
 }

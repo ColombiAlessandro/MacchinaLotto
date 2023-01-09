@@ -76,12 +76,13 @@ namespace MacchinaLotto
         {
             if (contEstratti >= 90) throw new Exception("Massimo superato");
             bool controllo=true;
-            Random r = new Random();
             if (contEstrazioni < 5)
             {
+                int estratto=0;
                 while (controllo)
                 {
-                    int estratto = r.Next(1, 90);
+                    Random r = new Random();
+                    estratto = r.Next(1, 90);
                     controllo = false;
                     for (int i = 0; i < contEstratti; i++)
                     {
@@ -90,11 +91,14 @@ namespace MacchinaLotto
                             controllo = true;
                         }
                     }
-                    contEstratti++;
-                    NumeriEstratti[contEstratti] = estratto;
-                    return estratto;
+                    
+                    
                 }
-                
+                NumeriEstratti[contEstratti] = estratto;
+                contEstratti++;
+                contEstrazioni++;
+                return estratto;
+
             } else
             {
                 throw new Exception("Massimo numero di estrazioni singole raggiunto");
@@ -125,15 +129,17 @@ namespace MacchinaLotto
         }
         public int VerificaEstrazioni(int[] Sequenza, int SequenzaLength)
         {
-            int contRet = 0;
-            for(int i = 0; i < SequenzaLength; i++)
-            {
-                for(int j = 0; j < contEstratti; i++)
+                int contRet = 0;
+                if (SequenzaLength > 5 || SequenzaLength <= 0 || Sequenza.Length <= 0 || Sequenza.Length > 5) throw new Exception("Lunghezza sequenza non valida");
+                for (int i = 0; i < SequenzaLength ; i++)
                 {
-                    if (Sequenza[i] == NumeriEstratti[j]) contRet++;
+                    for (int j = 0; j < contEstratti; i++)
+                    {
+                        if (Sequenza[i] == NumeriEstratti[j]) contRet++;
+                    }
                 }
-            }
-            return contRet;
+                return contRet;
+            
         }
         public string toString()
         {

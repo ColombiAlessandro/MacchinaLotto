@@ -1,0 +1,8 @@
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\MacchinaLotto\bin\Debug\MacchinaLotto.exe.config
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\MacchinaLotto\bin\Debug\MacchinaLotto.exe
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\MacchinaLotto\bin\Debug\MacchinaLotto.pdb
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\MacchinaLotto\obj\Debug\MacchinaLotto.csproj.AssemblyReference.cache
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\MacchinaLotto\obj\Debug\MacchinaLotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\MacchinaLotto\obj\Debug\MacchinaLotto.csproj.CoreCompileInputs.cache
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\MacchinaLotto\obj\Debug\MacchinaLotto.exe
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\MacchinaLotto\obj\Debug\MacchinaLotto.pdb
