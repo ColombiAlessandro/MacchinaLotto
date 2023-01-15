@@ -130,10 +130,12 @@ namespace MacchinaLotto
         public int VerificaEstrazioni(int[] Sequenza, int SequenzaLength)
         {
                 int contRet = 0;
+                if (Sequenza == null) throw new Exception("Sequenza non valida");
                 if (SequenzaLength > 5 || SequenzaLength <= 0 || Sequenza.Length <= 0 || Sequenza.Length > 5) throw new Exception("Lunghezza sequenza non valida");
+                
                 for (int i = 0; i < SequenzaLength ; i++)
                 {
-                    for (int j = 0; j < contEstratti; i++)
+                    for (int j = 0; j < contEstratti; j++)
                     {
                         if (Sequenza[i] == NumeriEstratti[j]) contRet++;
                     }
