@@ -1,0 +1,12 @@
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\bin\Debug\net5.0\Lotto.deps.json
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\bin\Debug\net5.0\Lotto.dll
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\bin\Debug\net5.0\ref\Lotto.dll
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\bin\Debug\net5.0\Lotto.pdb
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.AssemblyInfo.cs
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.dll
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\ref\Lotto.dll
+C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.pdb
