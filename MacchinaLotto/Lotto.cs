@@ -145,7 +145,7 @@ namespace MacchinaLotto
         }
         public string toString()
         {
-            string stringa = $"Macchina:{ID};{DataFabb};{contEstratti.ToString()}";
+            string stringa = $"Macchina:{ID};{DataFabb};{contEstratti.ToString()};";
             for(int i = 0; i < contEstratti; i++)
             {
                 stringa += $"{NumeriEstratti[i].ToString()};";
