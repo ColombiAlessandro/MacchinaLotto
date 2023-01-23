@@ -10,3 +10,15 @@ C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.csproj.Co
 C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.dll
 C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\ref\Lotto.dll
 C:\Users\aless\source\repos\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.pdb
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\bin\Debug\net5.0\Lotto.deps.json
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\bin\Debug\net5.0\Lotto.dll
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\bin\Debug\net5.0\Lotto.pdb
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.csproj.AssemblyReference.cache
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.AssemblyInfoInputs.cache
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.AssemblyInfo.cs
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.dll
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\obj\Debug\net5.0\refint\Lotto.dll
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\obj\Debug\net5.0\Lotto.pdb
+C:\Users\colombi.19314\Desktop\GitMacchina\MacchinaLotto\Esperia.Lotto\Lotto\obj\Debug\net5.0\ref\Lotto.dll

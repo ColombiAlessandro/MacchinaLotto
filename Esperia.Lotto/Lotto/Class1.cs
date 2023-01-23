@@ -128,7 +128,7 @@ namespace Lotto
         {
             int contRet = 0;
             if (Sequenza == null) throw new Exception("Sequenza non valida");
-            if (SequenzaLength > 5 || SequenzaLength <= 0 || Sequenza.Length <= 0 || Sequenza.Length > 5) throw new Exception("Lunghezza sequenza non valida");
+            if (SequenzaLength > 5 || SequenzaLength <= 0 || Sequenza.Length <= 0 || Sequenza.Length > 5 || Sequenza.Length<SequenzaLength) throw new Exception("Lunghezza sequenza non valida");
 
             for (int i = 0; i < SequenzaLength; i++)
             {
